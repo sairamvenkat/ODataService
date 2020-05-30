@@ -1,0 +1,2 @@
+https://www.c-sharpcorner.com/UploadFile/dacca2/expose-odata-endpoint-without-entity-framework-and-perform-c/
+Nuget Package : Install-Package Microsoft.AspNet.OData
